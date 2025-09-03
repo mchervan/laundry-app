@@ -108,11 +108,6 @@ Aplikasi manajemen laundry berbasis web yang dibangun dengan **Laravel 12** untu
 - Laporan Keuangan
 - Management Order
 
-## 🌐 Live Demo
-
-Aplikasi dapat diakses di: [https://your-laundry-app.render.com](https://your-laundry-app.render.com)
-
-*(Note: Ganti dengan URL live deployment Anda)*
 
 ## 🚀 Deployment
 
