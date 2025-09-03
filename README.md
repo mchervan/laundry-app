@@ -100,14 +100,6 @@ Aplikasi manajemen laundry berbasis web yang dibangun dengan **Laravel 12** untu
 - **Email**: kasir.pemuda@laundry.com
 - **Password**: kasir123
 
-## 📱 Screenshots
-
-*(Tambahkan screenshot aplikasi Anda di sini)*
-- Dashboard Admin
-- Interface Kasir
-- Laporan Keuangan
-- Management Order
-
 
 ## 🚀 Deployment
 
