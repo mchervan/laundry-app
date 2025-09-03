@@ -94,11 +94,11 @@ Aplikasi manajemen laundry berbasis web yang dibangun dengan **Laravel 12** untu
 
 ### Admin Account
 - **Email**: admin@laundry.com
-- **Password**: password
+- **Password**: admin123
 
 ### Kasir Account  
-- **Email**: kasir@laundry.com
-- **Password**: password
+- **Email**: kasir.pemuda@laundry.com
+- **Password**: kasir123
 
 ## 📱 Screenshots
 
@@ -144,9 +144,9 @@ This project is open-sourced software licensed under the [MIT license](https://o
 ## 📞 Contact
 
 - **Developer**: Mochamad Ervan
-- **Email**: mochamadervan04@gmail.com
+- **Email**: [mchervan@vancraftstudio.onmicrosoft.com](mailto:mchervan@vancraftstudio.onmicrosoft.com)
 - **GitHub**: [mchervan](https://github.com/mchervan)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [Mochamad Ervan](https://www.linkedin.com/in/mochamad-ervan-248172226)
 
 ---
 
